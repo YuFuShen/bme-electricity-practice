@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "f38736353ed0f63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2db5425bd13e5db1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "測試.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c04566e8d9815b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c97f34ab4de82b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0957488341bf1028",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cdfe3d2f1e6bb7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f74f6d626bdda1fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "83913c22bcae571a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f8fc8399306d741",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "測試.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2db5425bd13e5db1",
+  "lastOpenFiles": [
+    "測試.md",
+    "玩.md"
+  ]
+}
